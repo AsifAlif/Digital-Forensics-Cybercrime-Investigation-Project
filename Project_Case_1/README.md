@@ -275,8 +275,5 @@ The messages between the suspect and the victim show that, on 9 July 2019, the s
 
 Autopsy · ExifTool · Kali Linux forensic utilities · Google Maps (geolocation verification)
 
-## Author
-
-Asif Alif — digital forensics, network security, and post-quantum cryptography.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
